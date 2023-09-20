@@ -1,0 +1,10 @@
+TODO
+
+- Make app async
+- Email layout/design
+- Clean params/secrets
+
+
+NOTES
+
+- Refresh bard cookie if no response

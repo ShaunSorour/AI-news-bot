@@ -1,0 +1,9 @@
+news.html
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
